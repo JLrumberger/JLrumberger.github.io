@@ -1,8 +1,0 @@
----
-layout: archive
-permalink: /blog/
-title: "Posts"
-author_profile: false
-header: "/images/pattern.png"
----
-
